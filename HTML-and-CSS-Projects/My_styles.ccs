@@ -1,0 +1,4 @@
+p	{
+	color: darkcyan;
+	test-align: right;
+	}

@@ -1,6 +1,8 @@
 p {
+	text-shadow: 3px 3px #000000;
 	color: blue; 
 	background-color: red;
-	font-size: large;	
+	font-size: xx-large;	
 	text-align: center;
+
 }
